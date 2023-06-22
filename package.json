@@ -14,12 +14,13 @@
     "@react-three/drei": "^9.74.7",
     "@react-three/fiber": "^8.13.0",
     "@types/three": "^0.152.1",
-    "firebase": "^9.22.2",
+    
     "framer-motion": "^10.12.16",
     "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-color": "^2.19.3",
     "react-dom": "^18.2.0",
+    "surge": "^0.23.1",
     "three": "^0.153.0",
     "valtio": "^1.10.5"
   },
